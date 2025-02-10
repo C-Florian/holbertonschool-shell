@@ -1,2 +1,2 @@
 #!/bin/bash
-chown :school hello/tmp
+chgrp school /tmp/hello
